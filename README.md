@@ -81,8 +81,8 @@ The Memory Bank system solves a big problem: AI agents forget everything between
 
 
 ## Acknowledgments
-- **Abdullah Alrashoudi** — [@Abdullah4AI](https://x.com/Abdullah4AI). Creator of the Memory Bank file.  
-- **Mazen Alotaibi** — [@ma7dev](https://x.com/ma7dev). Recognized as a **Cursor** ambassador and for sharing valuable resources about the platform.
+- **Abdullah Alrashoudi** : [@Abdullah4AI](https://x.com/Abdullah4AI). Creator of the Memory Bank file.  
+- **Mazen Alotaibi** : [@ma7dev](https://x.com/ma7dev). Recognized as a **Cursor** ambassador and for sharing valuable resources about the platform.
 
 ---
 
