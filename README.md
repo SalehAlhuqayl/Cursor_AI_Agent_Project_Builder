@@ -79,6 +79,11 @@ The Memory Bank system solves a big problem: AI agents forget everything between
 - `system_patterns.mdc` - How the code is organized
 - `product_context.mdc` - User needs and project purpose
 
+
+## Acknowledgments
+- **Abdullah Alrashoudi** — [@Abdullah4AI](https://x.com/Abdullah4AI). Creator of the Memory Bank file.  
+- **Mazen Alotaibi** — [@ma7dev](https://x.com/ma7dev). Recognized as a **Cursor** ambassador and for sharing valuable resources about the platform.
+
 ---
 
 **Ready to build? Follow the steps above and let the AI agent create your complete project!**
